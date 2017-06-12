@@ -4,7 +4,10 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  '(ansi-color-names-vector ["#2e3436" "#a40000" "#4e9a06" "#c4a000" "#204a87" "#5c3566" "#729fcf" "#eeeeec"])
- '(custom-enabled-themes (quote (wheatgrass)))
+ '(custom-enabled-themes (quote (tango-dark)))
+ '(flymake-google-cpplint-command "/usr/bin/cpplint")
+ '(font-use-system-font t)
+ '(inhibit-startup-screen t)
  '(tool-bar-mode nil))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
@@ -21,6 +24,7 @@
 (package-initialize)
 
 ; start auto-complete with emacs
+(global-auto-composition-mode t)
 (require 'auto-complete)
 ; do default config for autocomplete
 (require 'auto-complete-config)
@@ -60,11 +64,10 @@
 (add-hook 'c-mode-common-hook 'google-set-c-style)
 (add-hook 'c-mode-common-hook 'google-make-newline-indent)
 
-; projectile
-(require 'projectile)
-(projectile-global-mode)
-(setq projectile-enable-caching t)
-(global-set-key [f5] 'projectile-find-file)
+;; (require 'projectile)
+;; (projectile-global-mode)
+;; (setq projectile-enable-caching t)
+;; (global-set-key [f5] 'projectile-find-file)
 
 ; verilog mode 4 space
 (setq default-tab-width 4)
@@ -101,3 +104,15 @@
 
 ; enable linum mode
 (global-linum-mode t)
+
+; disable creat backup file
+(setq make-backup-files nil) 
+
+;;;; Move between windows
+;;(global-set-key (kbd "C-x j") 'windmove-down)
+;;(global-set-key (kbd "C-x k") 'windmove-up)
+;;(global-set-key (kbd "C-x h") 'windmove-left)
+;;(global-set-key (kbd "C-x l") 'windmove-right)
+
+(require 'org-gcal)
+(put 'dired-find-alternate-file 'disabled nil)
