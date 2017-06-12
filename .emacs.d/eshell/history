@@ -1,0 +1,5 @@
+ls
+mkdir Counter_demo
+cd Counter_demo/
+ls
+./read_1st_word.c

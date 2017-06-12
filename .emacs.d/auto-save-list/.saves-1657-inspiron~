@@ -1,0 +1,14 @@
+/home/tlv/Downloads/I2C-master/i2c_master_tb.v
+/home/tlv/Downloads/I2C-master/#i2c_master_tb.v#
+/home/tlv/Downloads/I2C-master/i2c_master_top.v
+/home/tlv/Downloads/I2C-master/#i2c_master_top.v#
+/home/tlv/Downloads/I2C-master/read_reg.task
+/home/tlv/Downloads/I2C-master/#read_reg.task#
+/home/tlv/Downloads/I2C-master/read_SH7144.task
+/home/tlv/Downloads/I2C-master/#read_SH7144.task#
+/home/tlv/Downloads/I2C-master/reg_control.v
+/home/tlv/Downloads/I2C-master/#reg_control.v#
+/home/tlv/Downloads/I2C-master/state_control.v
+/home/tlv/Downloads/I2C-master/#state_control.v#
+/home/tlv/Downloads/I2C-master/output_control.v
+/home/tlv/Downloads/I2C-master/#output_control.v#
