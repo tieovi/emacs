@@ -3,3 +3,22 @@ mkdir Counter_demo
 cd Counter_demo/
 ls
 ./read_1st_word.c
+pwd
+ls -ltr
+pwdx
+cd ~/Tmp/
+ll
+ls -ltr
+ls -ltr
+cd Verilator/
+./run_veri.sh 
+mv bench.cpp counter_tb.cpp
+vim
+cd ..
+cd ~/Tmp/Verilator/
+ls -ltr
+./run_veri.sh 
+ls -ltr
+gtkwave counter.vcd &
+python chap01.py 
+python chap01.py 

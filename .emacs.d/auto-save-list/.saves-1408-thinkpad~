@@ -1,0 +1,16 @@
+/m2_ssd/Workspace/FPGA/roe_sim/roe_sim_ex/roe_framer_2_ex/roe_framer_2_ex.sim/sim_1/behav/vcs/demo_tb_simulate.do
+/m2_ssd/Workspace/FPGA/roe_sim/roe_sim_ex/roe_framer_2_ex/roe_framer_2_ex.sim/sim_1/behav/vcs/#demo_tb_simulate.do#
+/m2_ssd/Workspace/FPGA/roe_sim/roe_sim_ex/roe_framer_0_ex/custom_hdl/roe_framer_radio_top.v
+/m2_ssd/Workspace/FPGA/roe_sim/roe_sim_ex/roe_framer_0_ex/custom_hdl/#roe_framer_radio_top.v#
+/m2_ssd/Workspace/FPGA/roe_sim/roe_sim_ex/roe_framer_0_ex/custom_hdl/roe_framer_radio_source.sv
+/m2_ssd/Workspace/FPGA/roe_sim/roe_sim_ex/roe_framer_0_ex/custom_hdl/#roe_framer_radio_source.sv#
+/m2_ssd/Workspace/FPGA/roe_sim/roe_sim_ex/roe_framer_0_ex/roe_framer_0_ex.ip_user_files/bd/roe_framer_0_exdes_ipi/ip/roe_framer_0_exdes_ipi_roe_radio_top_0_0/sim/roe_framer_0_exdes_ipi_roe_radio_top_0_0.v
+/m2_ssd/Workspace/FPGA/roe_sim/roe_sim_ex/roe_framer_0_ex/roe_framer_0_ex.ip_user_files/bd/roe_framer_0_exdes_ipi/ip/roe_framer_0_exdes_ipi_roe_radio_top_0_0/sim/#roe_framer_0_exdes_ipi_roe_radio_top_0_0.v#
+/m2_ssd/Workspace/FPGA/zybo_adi_dmac/petalinux/zybo_adi_dmac/project-spec/meta-user/recipes-bsp/device-tree/files/system-user.dtsi
+/m2_ssd/Workspace/FPGA/zybo_adi_dmac/petalinux/zybo_adi_dmac/project-spec/meta-user/recipes-bsp/device-tree/files/#system-user.dtsi#
+/m2_ssd/Workspace/FPGA/zybo_adi_dmac/petalinux/zybo_adi_dmac/components/plnx_workspace/device-tree/device-tree/pl.dtsi
+/m2_ssd/Workspace/FPGA/zybo_adi_dmac/petalinux/zybo_adi_dmac/components/plnx_workspace/device-tree/device-tree/#pl.dtsi#
+/m2_ssd/Workspace/FPGA/zybo_adi_dmac/petalinux/zybo_adi_dmac/components/plnx_workspace/device-tree/device-tree/system-top.dts
+/m2_ssd/Workspace/FPGA/zybo_adi_dmac/petalinux/zybo_adi_dmac/components/plnx_workspace/device-tree/device-tree/#system-top.dts#
+/m2_ssd/Workspace/FPGA/zybo_adi_dmac/petalinux/zybo_adi_dmac/components/plnx_workspace/device-tree/device-tree/zynq-7000.dtsi
+/m2_ssd/Workspace/FPGA/zybo_adi_dmac/petalinux/zybo_adi_dmac/components/plnx_workspace/device-tree/device-tree/#zynq-7000.dtsi#

@@ -1,0 +1,2 @@
+;;; Generated package description from /home/tieovi/.emacs.d/elpa/pcap-mode-20161025.1448/pcap-mode.el  -*- no-byte-compile: t -*-
+(define-package "pcap-mode" "20161025.1448" "Major mode for working with PCAP files" '((emacs "24.3")) :commit "52780669af0ade136f84d73f21b4dbb7ab655416" :keywords '("pcap" "packets" "tcpdump" "wireshark" "tshark") :authors '(("Aaron Conole" . "aconole@bytheb.org")) :maintainer '("Aaron Conole" . "aconole@bytheb.org"))

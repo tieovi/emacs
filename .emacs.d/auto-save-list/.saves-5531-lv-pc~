@@ -1,0 +1,16 @@
+/home/lv/Workspaces/neorv32/rtl/core/neorv32_package.vhd
+/home/lv/Workspaces/neorv32/rtl/core/#neorv32_package.vhd#
+/home/lv/Workspaces/neorv32/rtl/core/neorv32_top.vhd
+/home/lv/Workspaces/neorv32/rtl/core/#neorv32_top.vhd#
+/home/lv/Workspaces/neorv32/rtl/core/neorv32_cpu_control.vhd
+/home/lv/Workspaces/neorv32/rtl/core/#neorv32_cpu_control.vhd#
+/home/lv/Workspaces/litex/litex/litex/soc/cores/cpu/neorv32/core.py
+/home/lv/Workspaces/litex/litex/litex/soc/cores/cpu/neorv32/#core.py#
+/home/lv/Workspaces/litex/litex/litex/soc/cores/cpu/neorv32/neorv32_cpu_wrapper.vhd
+/home/lv/Workspaces/litex/litex/litex/soc/cores/cpu/neorv32/#neorv32_cpu_wrapper.vhd#
+/home/lv/Workspaces/litex/litex/litex/soc/cores/bitbang.py
+/home/lv/Workspaces/litex/litex/litex/soc/cores/#bitbang.py#
+/home/lv/Workspaces/neorv32/rtl/core/neorv32_cpu.vhd
+/home/lv/Workspaces/neorv32/rtl/core/#neorv32_cpu.vhd#
+/home/lv/Workspaces/litex/litex/litex/soc/integration/builder.py
+/home/lv/Workspaces/litex/litex/litex/soc/integration/#builder.py#

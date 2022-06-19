@@ -1,0 +1,2 @@
+;;; Generated package description from /home/tieovi/.emacs.d/elpa/xah-find-20210111.334/xah-find.el  -*- no-byte-compile: t -*-
+(define-package "xah-find" "20210111.334" "find replace in pure emacs lisp. Purpose similar to grep/sed." '((emacs "24.1")) :commit "8948fa8f18023868731a1666f9893abc08f370e1" :authors '(("Xah Lee ( http://xahlee.info/ )")) :maintainer '("Xah Lee ( http://xahlee.info/ )") :keywords '("convenience" "extensions" "files" "tools" "unix") :url "http://ergoemacs.org/emacs/elisp-xah-find-text.html")
